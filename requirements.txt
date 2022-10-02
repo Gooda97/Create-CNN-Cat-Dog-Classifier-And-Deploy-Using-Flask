@@ -1,0 +1,5 @@
+flask==2.2.2
+werkzeug==2.2.2
+tensorflow==2.9.1
+os
+shutil
